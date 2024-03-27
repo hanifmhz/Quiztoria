@@ -315,12 +315,12 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom center;
-    transition: .8s ease-in-out;
-    -webkit-transition: .8s ease-in-out;
-    -moz-transition: .8s ease-in-out;
-    -ms-transition: .8s ease-in-out;
-    -o-transition: .8s ease-in-out;
-    transition-delay: .25s;
+    transition: .8s ease;
+    -webkit-transition: .8s ease;
+    -moz-transition: .8s ease;
+    -ms-transition: .8s ease;
+    -o-transition: .8s ease;
+    transition-delay: 1s;
     z-index: 99;
 }
 
