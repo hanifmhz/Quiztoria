@@ -269,7 +269,7 @@ body{
 }
 
 .selc-country .country-box{
-    padding: 0px 200px;;
+    padding: 0 10%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -361,7 +361,6 @@ body{
     bottom: 15%;
     height: 15vh;
     right: 10%;
-    z-index: 99;
 }
 
 .category-section h1{
@@ -508,7 +507,7 @@ body{
 
 .question-box{
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
@@ -537,19 +536,20 @@ body{
     color: burlywood;
     font-family: 'Squirk';
     font-size: 40px;
-    position: relative;
+    position: absolute;
+    top: 19%
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 10px;
-    transform: translateX(49vh);
+    transform: translateX(30vw);
     height: 60px;
     width: 100px;
     background-color:#E2EEE2;
-    -webkit-transform: translateX(49vh);
-    -moz-transform: translateX(49vh);
-    -ms-transform: translateX(49vh);
-    -o-transform: translateX(49vh);
+    -webkit-transform: translateX(30vw);
+    -moz-transform: translateX(30vw);
+    -ms-transform: translateX(30vw);
+    -o-transform: translateX(30vw);
 }
 
 .question-box .question{
@@ -697,6 +697,7 @@ body{
     bottom: 0;
     left: -3%;
     z-index: 3;
+    height: 20vh;
 }
 
 .awan2{
