@@ -126,7 +126,7 @@ body{
 .home-content{
     width: 900px;
     height: 370px;
-    background-image: url('assets/Image/Board.svg');
+    background-image: url('Assets/Image/Board.svg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
@@ -277,7 +277,7 @@ body{
 }
 
 .selc-country .country-box .country{
-    background-image:url('assets/Image/Country-box.svg');
+    background-image:url('Assets/Image/Country-box.svg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     font-family: 'Kollektif';
@@ -401,7 +401,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('assets/Image/Board2.svg');
+    background-image: url('Assets/Image/Board2.svg');
     background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 50px;
