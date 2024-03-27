@@ -311,7 +311,7 @@ body{
     position: relative;
     left: -50%;
     width: 100%;
-    background: url('assets/Image/Piramida.svg'), linear-gradient(#E1EDE2 20%, #A8D5E2 40%);
+    background: url('Assets/Image/Piramida.svg'), linear-gradient(#E1EDE2 20%, #A8D5E2 40%);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom center;
