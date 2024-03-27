@@ -1,0 +1,42 @@
+<svg width="64" height="65" viewBox="0 0 64 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ddd_106_48)">
+<g clip-path="url(#clip0_106_48)">
+<rect x="11" y="10" width="42" height="42" rx="21" fill="#7C8A4D"/>
+<rect x="11" y="10" width="42" height="42" rx="21" fill="url(#paint0_linear_106_48)" fill-opacity="0.25" style="mix-blend-mode:soft-light"/>
+<rect x="11" y="10" width="42" height="42" rx="21" stroke="url(#paint1_linear_106_48)" stroke-width="6" style="mix-blend-mode:soft-light"/>
+</g>
+<rect x="6.5" y="5.5" width="51" height="51" rx="25.5" stroke="#0A0A0A" stroke-opacity="0.07" stroke-width="3"/>
+</g>
+<defs>
+<filter id="filter0_ddd_106_48" x="0" y="0" width="64" height="65" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_106_48"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_106_48" result="effect2_dropShadow_106_48"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+<feBlend mode="normal" in2="effect2_dropShadow_106_48" result="effect3_dropShadow_106_48"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect3_dropShadow_106_48" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_106_48" x1="32" y1="7" x2="32" y2="55" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_106_48" x1="32" y1="7" x2="32" y2="55" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1"/>
+</linearGradient>
+<clipPath id="clip0_106_48">
+<rect x="8" y="7" width="48" height="48" rx="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
