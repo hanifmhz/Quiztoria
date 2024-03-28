@@ -34,7 +34,7 @@ body{
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     height: 63px;
     padding: 20px 3%;
     background-color: #fff;
@@ -126,7 +126,7 @@ body{
 .home-content{
     width: 900px;
     height: 370px;
-    background-image: url('Assets/Image/Board.svg');
+    background-image: url('Assets/Image/Board.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
@@ -277,7 +277,7 @@ body{
 }
 
 .selc-country .country-box .country{
-    background-image:url('Assets/Image/Country-box.svg');
+    background-image:url('Assets/Image/Country-box.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     font-family: 'Kollektif';
@@ -311,7 +311,7 @@ body{
     position: relative;
     left: -50%;
     width: 100%;
-    background: url('Assets/Image/Piramida.svg'), linear-gradient(#E1EDE2 20%, #A8D5E2 40%);
+    background: url('Assets/Image/Piramida.png'), linear-gradient(#E1EDE2 20%, #A8D5E2 40%);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -406,7 +406,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('Assets/Image/Board2.svg');
+    background-image: url('Assets/Image/Board2.png');
     background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 50px;
@@ -737,7 +737,7 @@ body{
 .ribbon{
     width: 350px;
     height: 200px;
-    background-image: url('Assets/Image/ribbon.svg');
+    background-image: url('Assets/Image/ribbon.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position-x: center;
@@ -803,7 +803,7 @@ body{
     justify-content: center;
     top: 35%;
     position: absolute;
-    background-image: url('Assets/Image/Board3.svg');
+    background-image: url('Assets/Image/Board3.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 500px;
