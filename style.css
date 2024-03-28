@@ -269,7 +269,7 @@ body{
 }
 
 .selc-country .country-box{
-    padding: 0 10%;
+    padding: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -315,12 +315,12 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom center;
-    transition: .8s ease;
-    -webkit-transition: .8s ease;
-    -moz-transition: .8s ease;
-    -ms-transition: .8s ease;
-    -o-transition: .8s ease;
-    transition-delay: 1s;
+    transition: 1s ease-in-out;
+    -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -ms-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition-delay: .75s;
     z-index: 99;
 }
 
